@@ -7,3 +7,5 @@ Transitional millisecond pulsars are a class of objects that undergo transitions
 For the moment the script entry point is update.py in the root directory.
 
 
+
+The Fermi plugin maintains a collection of all Fermi photons ever; a description of how to do this is available at https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/LAT_weekly_allsky.html .

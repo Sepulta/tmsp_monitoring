@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
-import tmsp_monitoring.config
+from tmsp_monitoring.fermi_datasource import FermiDatasource
 
-pass
+F = FermiDatasource()
+
+F.update_photons()
+
+
